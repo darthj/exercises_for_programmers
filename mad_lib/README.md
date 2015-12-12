@@ -53,12 +53,12 @@ Create a simple mad-lib program that prompts for a noun, a verb, an adverb, an a
         - adverb: quickly
 
         Expected Results:
-        - Enter a noun: dog
-        - Enter a verb: walk
-        - Enter an adjective: blue
-        - Enter an adverb: quickly
-        - Do you walk your blue dog quickly?
-        - That's hilarious!
+          Enter a noun: dog
+          Enter a verb: walk
+          Enter an adjective: blue
+          Enter an adverb: quickly
+          Do you walk your blue dog quickly?
+          That's hilarious!
         
         Actual Results:
 
