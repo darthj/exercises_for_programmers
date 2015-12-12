@@ -12,9 +12,8 @@ Create a program that prompts for an input string and displays output that shows
 * displays
 
 ### Example Output:
-What is the input string? Homer
-
-Homer is 5 characters.
+    What is the input string? Homer
+    Homer is 5 characters.
 
 ### Inputs, Processes, Outputs:
 **Inputs:** input string
