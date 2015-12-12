@@ -1,6 +1,7 @@
 # [2 of 57] Counting the Number of Characters
 
 ### Problem Statement:
+
 Create a program that prompts for an input string and displays output that shows the input string and the number of characters the string contains.
 
         Nouns:
@@ -13,6 +14,7 @@ Create a program that prompts for an input string and displays output that shows
 
 ---
 ### Example Output:
+
         What is the input string? Homer
         Homer is 5 characters.
 
@@ -40,6 +42,7 @@ Create a program that prompts for an input string and displays output that shows
 
 ---
 ### Pseudocode
+
         CountCharacters
           - Prompts for input string with "What is your input string?"
           
