@@ -39,7 +39,7 @@ Create a program that prompts for a quote and an author. Display the quotation a
         - author: Obi-Wan Kenobi
         
         Expected Result:
-        - Obi-Wan Kenobi says, "These aren't the droids you're looking for."
+          Obi-Wan Kenobi says, "These aren't the droids you're looking for."
         
         Actual Results:
 
