@@ -3,18 +3,19 @@
 ### Problem Statement:
 Create a simple mad-lib program that prompts for a noun, a verb, an adverb, an adjective and injects those into a story that you create.
 
-**nouns:**
-* noun
-* verb
-* adverb
-* adjective
-* story
+    nouns:
+    - noun
+    - verb
+    - adverb
+    - adjective
+    - story
+    
+    verbs:
+    - prompts
+    - injects
+    - displays
 
-**verbs:**
-* prompts
-* injects
-* displays
-
+---
 ### Example Output:
     Enter a noun: dog
     Enter a verb: walk
