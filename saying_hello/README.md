@@ -1,6 +1,7 @@
 # [1 of 57] Saying Hello
 
 ### Problem Statement:
+
 Create a program that prompts for your name and prints a greeting using your name.
 
         Nouns:
@@ -13,10 +14,12 @@ Create a program that prompts for your name and prints a greeting using your nam
 
 ---
 ### Example Output:
+
         What is your name? Chet
         Hello, Chet, nice to meet you!
 
 ### Inputs, Processes, Outputs:
+
         Inputs:
         - name
 
@@ -40,6 +43,7 @@ Create a program that prompts for your name and prints a greeting using your nam
 
 ---
 ### Pseudocode:
+
         SayHello
           - Prompt for name with "What is your name?"
           
