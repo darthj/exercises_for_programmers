@@ -17,5 +17,6 @@ Write a program that prompts for two numbers. Print the sum, difference, product
 * multiplies
 * divides
 * outputs
+
 ---
 ### Example Output:
