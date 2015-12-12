@@ -3,42 +3,49 @@
 ### Problem Statement:
 Create a program that prompts for an input string and displays output that shows the input string and the number of characters the string contains.
 
-**nouns:**
-* input string
-* number of characters
+        Nouns:
+        - input string
+        - number of characters
 
-**verbs:**
-* prompts
-* displays
+        verbs:
+        - prompts
+        - displays
 
+---
 ### Example Output:
-    What is the input string? Homer
-    Homer is 5 characters.
+        What is the input string? Homer
+        Homer is 5 characters.
 
 ### Inputs, Processes, Outputs:
-**Inputs:** input string
+        
+        Inputs:
+        - input string
 
-**Processes:** prompts and displays
+        Processes:
+        - prompts and displays
 
-**Outputs:** string and number of characters it counted
+        Outputs:
+        - string and number of characters it counted
 
+---
 ### Test Plan:
-**Inputs:**
-* string: Homer
 
-**Expected Result:**
-    
-    Homer has 5 characters.
+        Inputs:
+        - string: Homer
 
-**Actual Results:**
+        Expected Result:
+        - Homer has 5 characters.
 
+        Actual Results:
+
+---
 ### Pseudocode
-    CountCharacters
-      -Prompts for input string with "What is your input string?"
-
-      -Count = length of string
-
-      -Displays input string and character Count
-
-      -If input string isn't given, prompt user to enter input string
-    end
+        CountCharacters
+          - Prompts for input string with "What is your input string?"
+          
+          - Count = length of string
+          
+          - Displays input string and character Count
+          
+          - If input string isn't given, prompt user to enter input string
+        end
