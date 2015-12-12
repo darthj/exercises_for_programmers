@@ -1,6 +1,7 @@
 # [3 of 57] Printing Quotes
 
 ### Problem Statement:
+
 Create a program that prompts for a quote and an author. Display the quotation and author as shown in the example output.
 
         nouns:
@@ -13,12 +14,14 @@ Create a program that prompts for a quote and an author. Display the quotation a
 
 ---
 ### Example Output:
-    What is the quote? These aren't the droids you're looking for.
-    Who said it? Obi-Wan Kenobi
-    Obi-Wan Kenobi says, "These aren't the droids you're looking for."
+        
+        What is the quote? These aren't the droids you're looking for.
+        Who said it? Obi-Wan Kenobi
+        Obi-Wan Kenobi says, "These aren't the droids you're looking for."
 
 ---
 ### Inputs, Processes, Outputs:
+        
         Inputs:
         - quote and author
         
@@ -42,6 +45,7 @@ Create a program that prompts for a quote and an author. Display the quotation a
 
 ---
 ### Pseudocode
+        
         QuotePrinter
           - Prompts for a quote "What is the quote?"
           - Prompts for author "Who said it?"
