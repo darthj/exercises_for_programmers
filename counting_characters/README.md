@@ -7,7 +7,7 @@ Create a program that prompts for an input string and displays output that shows
         - input string
         - number of characters
 
-        verbs:
+        Verbs:
         - prompts
         - displays
 
