@@ -43,10 +43,10 @@ Create a program that prompts for a quote and an author. Display the quotation a
 ---
 ### Pseudocode
         QuotePrinter
-          -Prompts for a quote "What is the quote?"
-          -Prompts for author "Who said it?"
+          - Prompts for a quote "What is the quote?"
+          - Prompts for author "Who said it?"
           
-          -Combine quote and author, using _escape characters_ to handle quotations.
+          - Combine quote and author, using _escape characters_ to handle quotations.
           
-          -Display author and quote.
+          - Display author and quote.
         end
