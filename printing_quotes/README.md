@@ -23,24 +23,25 @@ Create a program that prompts for a quote and an author. Display the quotation a
 
 **Outputs:** author and quotation
 
+---
 ### Test Plan:
-**Inputs:**
-* quote: These aren't the droids you're looking for.
-* author: Obi-Wan Kenobi
+        
+        Inputs:
+        - quote: These aren't the droids you're looking for.
+        - author: Obi-Wan Kenobi
+        
+        Expected Result:
+        - Obi-Wan Kenobi says, "These aren't the droids you're looking for."
+        
+        Actual Results:
 
-**Expected Result:**
-
-    Obi-Wan Kenobi says, "These aren't the droids you're looking for."
-
-**Actual Results:**
-
+---
 ### Pseudocode
-    QuotePrinter
-      -Prompts for a quote "What is the quote?"
-
-      -Prompts for author "Who said it?"
-
-      -Combine quote and author, using _escape characters_ to handle quotations.
-
-      -Display author and quote.
-    end
+        QuotePrinter
+          -Prompts for a quote "What is the quote?"
+          -Prompts for author "Who said it?"
+          
+          -Combine quote and author, using _escape characters_ to handle quotations.
+          
+          -Display author and quote.
+        end
