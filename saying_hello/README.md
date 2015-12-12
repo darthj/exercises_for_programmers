@@ -37,7 +37,8 @@ Create a program that prompts for your name and prints a greeting using your nam
         - name: Chet
 
         Expected Result:
-        - greeting: Hello, Chet, nice to meet you!
+          What is your name? Chet
+          Hello, Chet, nice to meet you!
 
         Actual Result:
 
