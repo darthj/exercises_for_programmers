@@ -20,6 +20,7 @@ Write a program that prompts for two numbers. Print the sum, difference, product
 
 ---
 ### Example Output:
+
   What is the first number? 10
   What is the second number? 5
   10 + 5 = 15
