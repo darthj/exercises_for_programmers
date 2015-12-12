@@ -27,6 +27,7 @@ Create a program that prompts for an input string and displays output that shows
 * string: Homer
 
 **Expected Result:**
+    
     Homer has 5 characters.
 
 **Actual Results:**
