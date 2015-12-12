@@ -3,40 +3,47 @@
 ### Problem Statement:
 Create a program that prompts for your name and prints a greeting using your name.
 
-**nouns:**
-* name
-* greeting
+        Nouns:
+        - name
+        - greeting
 
-**verbs:**
-* prompts
-* prints
+        Verbs:
+        - prompts
+        - prints
 
+---
 ### Example Output:
-    What is your name? Chet
-    Hello, Chet, nice to meet you!
+        What is your name? Chet
+        Hello, Chet, nice to meet you!
 
 ### Inputs, Processes, Outputs:
-**Inputs:** name
+        Inputs:
+        - name
 
-**Processes:** prompts and prints
+        Processes:
+        - prompts
+        - prints
 
-**Outputs:** greeting
+        Outputs:
+        - greeting
 
+---
 ### Test Plan:
-**Inputs:**
-* name: Chet
 
-**Expected Result:**
+        Inputs:
+        - name: Chet
 
-    greeting: Hello, Chet, nice to meet you!
+        Expected Result:
+        - greeting: Hello, Chet, nice to meet you!
 
-**Actual Result:**
+        Actual Result:
 
+---
 ### Pseudocode:
-    SayHello
-      -Prompt for name with "What is your name?"
-
-      -Greeting = "Hello," + name + ", nice to meet you."
-
-      -Display greeting
-    end
+        SayHello
+          - Prompt for name with "What is your name?"
+          
+          - Greeting = "Hello," + name + ", nice to meet you."
+          
+          - Display greeting
+        end
