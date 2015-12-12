@@ -33,7 +33,7 @@ Create a program that prompts for an input string and displays output that shows
         Inputs:
         - string: Homer
 
-        Expected Result:
+        Expected Results:
         - Homer has 5 characters.
 
         Actual Results:
