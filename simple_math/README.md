@@ -33,18 +33,18 @@ Write a program that prompts for two numbers. Print the sum, difference, product
 ---
 ### Inputs, Processes, Outputs
 
-        **Inputs:**
-        * first number
-        * second number
+        Inputs:
+        - first number
+        - second number
         
         Processes:
-        * add
-        * subtract
-        * multiply
-        * divide
+        - add
+        - subtract
+        - multiply
+        - divide
         
         Outputs:
-        * sum
-        * difference
-        * product
-        * quotient
+        - sum
+        - difference
+        - product
+        - quotient
