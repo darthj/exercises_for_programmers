@@ -8,3 +8,5 @@ Book can be purchased from [The Pragmatic Bookshelf](https://pragprog.com/book/b
 [2 of 57: Counting Characters](https://github.com/cjbrambo/exercises_for_programmers/tree/master/counting_characters)
 
 [3 of 57: Printing Quotes](https://github.com/cjbrambo/exercises_for_programmers/tree/master/printing_quotes)
+
+[4 of 57: Mad Lib](https://github.com/cjbrambo/exercises_for_programmers/tree/master/mad_lib)
