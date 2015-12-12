@@ -3,14 +3,14 @@
 ### Problem Statement:
 Write a program that prompts for two numbers. Print the sum, difference, product, and quotient of the numbers as shown in the example output.
 
-        nouns:
+        Nouns:
         - numbers
         - sum
         - difference
         - product
         - quotient
         
-        verbs:
+        Verbs:
         - prompts
         - adds
         - subtracts
