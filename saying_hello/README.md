@@ -12,9 +12,8 @@ Create a program that prompts for your name and prints a greeting using your nam
 * prints
 
 ### Example Output:
-What is your name? Chet
-
-Hello, Chet, nice to meet you!
+    What is your name? Chet
+    Hello, Chet, nice to meet you!
 
 ### Inputs, Processes, Outputs:
 **Inputs:** name
@@ -28,7 +27,8 @@ Hello, Chet, nice to meet you!
 * name: Chet
 
 **Expected Result:**
-* greeting: Hello, Chet, nice to meet you!
+
+    greeting: Hello, Chet, nice to meet you!
 
 **Actual Result:**
 
