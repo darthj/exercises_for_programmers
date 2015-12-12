@@ -10,3 +10,5 @@ Book can be purchased from [The Pragmatic Bookshelf](https://pragprog.com/book/b
 [3 of 57: Printing Quotes](https://github.com/cjbrambo/exercises_for_programmers/tree/master/printing_quotes)
 
 [4 of 57: Mad Lib](https://github.com/cjbrambo/exercises_for_programmers/tree/master/mad_lib)
+
+[5 of 57: Simple Math](https://github.com/cjbrambo/exercises_for_programmers/tree/master/simple_math)
