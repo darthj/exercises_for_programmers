@@ -26,11 +26,15 @@ Create a program that prompts for your name and prints a greeting using your nam
 ---
 ### Test Plan:
 
-| Inputs     | Expected Results               | Actual Results |
-|------------|:-------------------------------|:---------------|
-| name: Chet | What is your name? Chet        |                |
-|            | Hello, Chet, nice to meet you! |                |
-
+        Inputs:
+          name: Brian
+          
+        Expected Results:
+          What is your name? Chet
+          Hello, Chet, nice to meet you!
+          
+        Actual Results:
+        
 ---
 ### Pseudocode:
 
