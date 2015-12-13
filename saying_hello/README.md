@@ -31,15 +31,6 @@ Create a program that prompts for your name and prints a greeting using your nam
 | name: Chet | What is your name? Chet        |                |
 |            | Hello, Chet, nice to meet you! |                |
 
-        Inputs:
-        - name: Chet
-
-        Expected Result:
-          What is your name? Chet
-          Hello, Chet, nice to meet you!
-
-        Actual Result:
-
 ---
 ### Pseudocode:
 
