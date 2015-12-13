@@ -8,7 +8,6 @@ Create a program that prompts for your name and prints a greeting using your nam
 |----------|:--------|
 | name     | prompts |
 | greeting | prints  |
-|          |         |
 
 ---
 ### Example Output:
@@ -23,10 +22,14 @@ Create a program that prompts for your name and prints a greeting using your nam
 |--------|:----------|:---------|
 | name   | prompts   | greeting |
 |        | prints    |          |
-|        |           |          |
 
 ---
 ### Test Plan:
+
+| Inputs     | Expected Results               | Actual Results |
+|------------|:-------------------------------|:---------------|
+| name: Chet | What is your name? Chet        |                |
+|            | Hello, Chet, nice to meet you! |                |
 
         Inputs:
         - name: Chet
