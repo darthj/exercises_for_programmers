@@ -12,3 +12,5 @@ Book can be purchased from [The Pragmatic Bookshelf](https://pragprog.com/book/b
 [4 of 57: Mad Lib](https://github.com/cjbrambo/exercises_for_programmers/tree/master/mad_lib)
 
 [5 of 57: Simple Math](https://github.com/cjbrambo/exercises_for_programmers/tree/master/simple_math)
+
+[6 of 57: Retirement Calculator](https://github.com/cjbrambo/exercises_for_programmers/blob/master/retirement_calculator/README.md)
