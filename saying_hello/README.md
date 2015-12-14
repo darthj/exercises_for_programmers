@@ -4,13 +4,10 @@
 
 Create a program that prompts for your name and prints a greeting using your name.
 
-        Nouns:
-        - name
-        - greeting
-
-        Verbs:
-        - prompts
-        - prints
+| Nouns    | Verbs   |
+|----------|:--------|
+| name     | prompts |
+| greeting | prints  |
 
 ---
 ### Example Output:
@@ -18,30 +15,26 @@ Create a program that prompts for your name and prints a greeting using your nam
         What is your name? Chet
         Hello, Chet, nice to meet you!
 
+---
 ### Inputs, Processes, Outputs:
 
-        Inputs:
-        - name
-
-        Processes:
-        - prompts
-        - prints
-
-        Outputs:
-        - greeting
+| Inputs | Processes | Outputs  |
+|--------|:----------|:---------|
+| name   | prompts   | greeting |
+|        | prints    |          |
 
 ---
 ### Test Plan:
 
         Inputs:
-        - name: Chet
-
-        Expected Result:
+          name: Brian
+          
+        Expected Results:
           What is your name? Chet
           Hello, Chet, nice to meet you!
-
-        Actual Result:
-
+          
+        Actual Results:
+        
 ---
 ### Pseudocode:
 
