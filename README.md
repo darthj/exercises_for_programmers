@@ -14,3 +14,5 @@ Book can be purchased from [The Pragmatic Bookshelf](https://pragprog.com/book/b
 [5 of 57: Simple Math](https://github.com/cjbrambo/exercises_for_programmers/tree/master/simple_math)
 
 [6 of 57: Retirement Calculator](https://github.com/cjbrambo/exercises_for_programmers/blob/master/retirement_calculator/README.md)
+
+[7 of 57: Area of a Rectangular Room](https://github.com/cjbrambo/exercises_for_programmers/tree/master/area_of_a_rectangular_room)
