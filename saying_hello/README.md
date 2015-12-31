@@ -4,10 +4,13 @@
 
 Create a program that prompts for your name and prints a greeting using your name.
 
-| Nouns    | Verbs   |
-|----------|:--------|
-| name     | prompts |
-| greeting | prints  |
+        Nouns:
+        name
+        greeting
+        
+        Verbs:
+        prompts
+        prints
 
 ---
 ### Example Output:
