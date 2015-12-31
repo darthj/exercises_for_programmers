@@ -5,12 +5,12 @@
 Create a program that prompts for your name and prints a greeting using your name.
 
         Nouns:
-          name
-          greeting
+        -  name
+        -  greeting
         
         Verbs:
-          prompts
-          prints
+        -  prompts
+        -  prints
 
 ---
 ### Example Output:
@@ -22,14 +22,14 @@ Create a program that prompts for your name and prints a greeting using your nam
 ### Inputs, Processes, Outputs:
 
         Inputs:
-          name
+        -  name
           
         Processes:
-          prompts
-          prints
+        -  prompts
+        -  prints
           
         Outputs:
-          greeting
+        -  greeting
 
 ---
 ### Test Plan:
