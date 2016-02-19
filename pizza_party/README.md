@@ -20,6 +20,7 @@ __
 
     How many people? 8
     How many pizzas do you have? 2
+    How many slices do the pizzas have? 8
 
     8 people with 2 pizzas
     Each person gets 2 pieces of pizza.
@@ -31,6 +32,7 @@ ___
     Inputs:
       pizzas
       people
+      slices
 
     Processes:
       calculate
@@ -45,10 +47,12 @@ ___
     Inputs:
       people: 8
       pizzas: 2
+      slices: 8
 
     Expected Results:
       How many people? 8
       How many pizzas do you have? 2
+      How many slices do the pizzas have? 8
 
       8 people with 2 pizzas
       Each person gets 2 pieces of pizza.
@@ -58,3 +62,16 @@ ___
 
 ___
 ### Pseudocode:
+
+    PizzaParty
+      - Prompt for how many people
+      - Prompt for how many pizzas
+      - Prompt for how many slices the pizzas have
+
+      - Multiply how many pizzas by how many slices per pizza
+      - Divide the product by how many people 
+
+      - Display how many people and how many pizzas
+      - Display how many slices each person gets
+      - Display how many slices are leftover
+    End
