@@ -1,4 +1,5 @@
-[9 of 57] Paint Calculator
+# [9 of 57] Paint Calculator
+
 Problem Statement:
 
 Calculate gallons of paint needed to paint the ceiling of a room. Prompt for the length and width, and assume one gallon covers 350 square feet. Display the number of gallons needed to paint the ceiling as a whole number.
