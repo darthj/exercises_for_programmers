@@ -20,3 +20,5 @@ Template: https://github.com/cjbrambo/exercises_for_programmers/wiki/Template
 [7 of 57: Area of a Rectangular Room](https://github.com/cjbrambo/exercises_for_programmers/tree/master/area_of_a_rectangular_room)
 
 [8 of 57: Pizza Party](https://github.com/cjbrambo/exercises_for_programmers/tree/master/pizza_party)
+
+[9 of 57: Paint Calculator](https://github.com/cjbrambo/exercises_for_programmers/tree/master/paint_calculator)
