@@ -8,7 +8,7 @@ Create a simple self-checkout system. Prompt for prices and quantities of three 
         prices
         quantities
         subtotal
-        tax
+        tax rate
         total
 
     Verbs:
@@ -63,11 +63,16 @@ Create a simple self-checkout system. Prompt for prices and quantities of three 
         Tax: $3.52
         Total: $67.52
 
-
     Actual Results:
 
 ---
 ### Pseudocode:
 
     Pseudocode
+        -Prompt for price of item
+        -Prompt for quantity of item
+        
+        -Multiply the price of the items by quantities of items
+        -Multiply that product by the tax rate
+        
     end
