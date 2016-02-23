@@ -75,4 +75,7 @@ Create a simple self-checkout system. Prompt for prices and quantities of three 
         -Multiply the price of the items by quantities of items
         -Multiply that product by the tax rate
         
+        -Repeat above process two more times
+        
+        
     end
