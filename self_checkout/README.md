@@ -33,10 +33,17 @@ Create a simple self-checkout system. Prompt for prices and quantities of three 
 ### Inputs, Processes, Outputs:
 
     Inputs:
+        prices
+        quantities
 
     Processes:
+        calculate
 
     Outputs:
+        quantity
+        subtotal
+        tax amount
+        total
 
 ---
 ### Test Plan:
