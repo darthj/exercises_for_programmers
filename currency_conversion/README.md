@@ -14,25 +14,33 @@ where
     Nouns:
 
     Verbs:
-Example Output:
+    
+---
+### Example Output:
 
-Constraints:
+---
+### Constraints:
 
-Inputs, Processes, Outputs:
+---
+### Inputs, Processes, Outputs:
 
     Inputs:
 
     Processes:
 
     Outputs:
-Test Plan:
+
+---
+### Test Plan:
 
     Inputs:
 
     Expected Results:
 
     Actual Results:
-Pseudocode:
+
+---
+### Pseudocode:
 
     Pseudocode
 
