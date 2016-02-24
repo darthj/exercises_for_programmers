@@ -15,7 +15,7 @@ Write a program to evenly divide pizzas. Prompt for the number of people, the nu
       prompt
       display
 
-__
+---
 ### Example Output:
 
     How many people? 8
@@ -26,7 +26,7 @@ __
     Each person gets 2 pieces of pizza.
     There are 0 leftover pieces.
 
-___
+---
 ### Inputs, Processes, Outputs
 
     Inputs:
@@ -41,7 +41,7 @@ ___
       slices
       leftovers
 
-___
+---
 ### Test Plan:
 
     Inputs:
@@ -60,7 +60,7 @@ ___
 
     Actual Results:
 
-___
+---
 ### Pseudocode:
 
     PizzaParty
@@ -75,3 +75,7 @@ ___
       - Display how many slices each person gets
       - Display how many slices are leftover
     End
+---
+### Challenges:
+
+---
