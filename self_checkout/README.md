@@ -30,6 +30,12 @@ Create a simple self-checkout system. Prompt for prices and quantities of three 
     Total: $67.52
 
 ---
+### Constraints:
+
+* Keep the input, processing, and the output parts of your program separate. Collect the input, then do the math operations and string building, and then print out the output.
+* Be sure you explicitly convert input to numerical data before doing any calculations.
+
+---
 ### Inputs, Processes, Outputs:
 
     Inputs:
@@ -82,3 +88,11 @@ Create a simple self-checkout system. Prompt for prices and quantities of three 
         -Display the tax amount
         -Display the total
     end
+
+---
+# Challenges:
+
+* Revise the program to ensure that prices and quantities are entered as numeric values. Don't allow the user to proceed if the value entered is not numeric.
+* Alter the program so that an indeterminate number of items can be entered. The tax and total are computed when there are no more items to be entered.
+
+---
