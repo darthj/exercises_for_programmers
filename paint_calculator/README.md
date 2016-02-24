@@ -73,3 +73,5 @@ Calculate gallons of paint needed to paint the ceiling of a room. Prompt for the
 * Implement support for a round room.
 * Implement support for an L-shaped room.
 * Implement a mobile version of this app so it can be used at the hardware store.
+
+---
