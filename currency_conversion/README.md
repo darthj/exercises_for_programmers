@@ -14,8 +14,8 @@ where
         Nouns:
             euros
             U.S. dollars
-            money
-            exchange rate
+            exchange rate euros
+            exchange rate dollars
 
         Verbs:
             convert
@@ -70,5 +70,11 @@ where
 ### Pseudocode:
 
     CurrencyConversion
-
+        -Prompt for amount of money in euros you have
+        -Prompt for current exchange rate in euros
+        
+        -Multiply euros by the exchange rate of the euro
+        -Divide the product by exchange rate of the dollar
+        
+        -Print new amount
     end
