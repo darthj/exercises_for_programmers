@@ -15,9 +15,7 @@ Write a program that converts currency. Specifically, convert euros to U.S. doll
             prompt
             print
  
- 
-#### Formula:
- 
+
 The formula for currency conversion is 
 ![Currency Conversion Formula](http://www.mathinary.com/image.jsp?formula=amount_%7Bto%7D+%3D+%5Cfrac%7Bamount_%7Bfrom%7D+%5Ctimes+rate_%7Bfrom%7D%7D%7Brate_%7Bto%7D%7D)
 where
