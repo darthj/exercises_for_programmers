@@ -80,3 +80,9 @@ where
         
         -Print new amount
     end
+
+---
+### Challenges:
+
+* Build a dictionary of conversion rates and prompt for the countries instead of rates.
+* Wire up your application to an external API that provides current exchage rates
