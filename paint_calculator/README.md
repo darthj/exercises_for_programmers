@@ -22,6 +22,12 @@ Calculate gallons of paint needed to paint the ceiling of a room. Prompt for the
     You will need to purchase 2 gallons of paint to cover 360 square feet.
 
 ---
+### Constraints:
+
+* Use a constant to hold the conversion rate.
+* Ensure that you round up to the next whole number.
+
+---
 ### Inputs, Processes, Outputs:
 
     Inputs:
@@ -59,3 +65,11 @@ Calculate gallons of paint needed to paint the ceiling of a room. Prompt for the
       
       -Display gallons needed
     end
+
+---
+### Challenges:
+
+* Revise the program to ensure that inputs are entered as numeric values. Don't allow the user to procedd if the value entered is not numeric.
+* Implement support for a round room.
+* Implement support for an L-shaped room.
+* Implement a mobile version of this app so it can be used at the hardware store.
