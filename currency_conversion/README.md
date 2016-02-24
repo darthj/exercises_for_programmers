@@ -10,10 +10,16 @@ where
 * _rate from_ is the current exchange rate in euros.
 * _rate to_ is the current exhange rate of the U.S. dollar.
 
-
+    
     Nouns:
+        currency
+        euros
+        U.S. dollars
+        money
+        exchange rate
 
     Verbs:
+        
     
 ---
 ### Example Output:
