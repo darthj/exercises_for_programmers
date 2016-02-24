@@ -1,4 +1,4 @@
-[11 of 57] Currency Conversion
+# [11 of 57] Currency Conversion
 
 ### Problem Statement:
 
@@ -11,15 +11,17 @@ where
 * _rate to_ is the current exhange rate of the U.S. dollar.
 
     
-    Nouns:
-        currency
-        euros
-        U.S. dollars
-        money
-        exchange rate
+        Nouns:
+            currency
+            euros
+            U.S. dollars
+            money
+            exchange rate
 
-    Verbs:
-        
+        Verbs:
+            convert
+            prompt
+            print
     
 ---
 ### Example Output:
