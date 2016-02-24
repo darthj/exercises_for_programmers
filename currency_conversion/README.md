@@ -12,7 +12,6 @@ where
 
     
         Nouns:
-            currency
             euros
             U.S. dollars
             money
@@ -26,30 +25,50 @@ where
 ---
 ### Example Output:
 
+    How many euros are you exchanging? 81
+    What is the exchange rate? 137.51
+    81 euros at an exchange rate of 137.51 is
+    111.38 U.S. dollars.
+
 ---
 ### Constraints:
+
+* Ensure that fractions of a cent are rounded up to the next penny.
+* Use a single output statement.
 
 ---
 ### Inputs, Processes, Outputs:
 
     Inputs:
+        euros
+        dollars
+        exchange rate
 
     Processes:
+        convert
 
     Outputs:
+        dollars
 
 ---
 ### Test Plan:
 
     Inputs:
+        euros
+        dollars
+        exchange rate
 
     Expected Results:
+        How many euros are you exchanging? 81
+        What is the exchange rate? 137.51
+        81 euros at an exchange rate 137.51 is
+        111.38 U.S. dollars.
 
     Actual Results:
 
 ---
 ### Pseudocode:
 
-    Pseudocode
+    CurrencyConversion
 
     end
