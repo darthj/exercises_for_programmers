@@ -19,6 +19,11 @@ Create a program that prompts for your name and prints a greeting using your nam
         Hello, Chet, nice to meet you!
 
 ---
+### Constraints:
+
+* Keep the input, string concatenation, and output separate.
+
+---
 ### Inputs, Processes, Outputs:
 
         Inputs:
@@ -53,3 +58,9 @@ Create a program that prompts for your name and prints a greeting using your nam
           
           - Display greeting
         end
+
+---
+### Challenges:
+
+* Write a new version of the program without using any variables.
+* Write a version of the program that displays different greetings for different people. This would be a good challenge to try after you've completed the exercises in Chapter 4, _Making Decisions_ and Chapter 7, _Data Structures_.
