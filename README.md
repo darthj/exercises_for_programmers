@@ -24,3 +24,7 @@ Template: https://github.com/cjbrambo/exercises_for_programmers/wiki/Template
 [9 of 57: Paint Calculator](https://github.com/cjbrambo/exercises_for_programmers/tree/master/paint_calculator)
 
 [10 of 57: Self Checkout](https://github.com/cjbrambo/exercises_for_programmers/blob/master/self_checkout)
+
+[11 of 57: Currency Conversion](https://github.com/cjbrambo/exercises_for_programmers/tree/master/currency_conversion)
+
+[12 of 57: Computing Simple Interest](https://github.com/cjbrambo/exercises_for_programmers/tree/master/computing_simple_interest)
