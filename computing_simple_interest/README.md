@@ -83,4 +83,8 @@ Create a program that computes simple interest. Prompt for the principal amount,
 ---
 ### Challenges:
 
+* Ensure that the values entered for principal, rate, and number of years are numeric and that the program will not let the user proceed without valid inputs.
+* Alter the program to use a function called calculateSimpleInterest taht takes in the rate, principal, and number of years and returns the amount at the end of the investment.
+* In addition to printing out the final amount, print out the amount at the end of each year.
+
 ---
