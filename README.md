@@ -1,7 +1,7 @@
 
 ## Solutions to the 57 problems in Exercises for Programmers.
 
-Book can be purchased from [The Pragmatic Bookshelf](https://pragprog.com/book/bhwb/exercises-for-programmers)
+Buy the book! Can be purchased from [The Pragmatic Bookshelf](https://pragprog.com/book/bhwb/exercises-for-programmers)
 
 Template: https://github.com/cjbrambo/exercises_for_programmers/wiki/Template
 
@@ -28,3 +28,5 @@ Template: https://github.com/cjbrambo/exercises_for_programmers/wiki/Template
 [11 of 57: Currency Conversion](https://github.com/cjbrambo/exercises_for_programmers/tree/master/currency_conversion)
 
 [12 of 57: Computing Simple Interest](https://github.com/cjbrambo/exercises_for_programmers/tree/master/computing_simple_interest)
+
+[13 of 57: Determining Compound Interest](https://github.com/cjbrambo/exercises_for_programmers/tree/master/determining_compound_interest)
