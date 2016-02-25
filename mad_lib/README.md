@@ -27,6 +27,12 @@ Create a simple mad-lib program that prompts for a noun, a verb, an adverb, an a
         That's hilarious!
 
 ---
+### Constraints:
+
+* Use a single output statement for this program.
+* If your language supports string interpolation or string substituion, use it to build up the output.
+
+---
 ### Inputs, Processes, Outputs:
 
         Inputs:
@@ -75,3 +81,9 @@ Create a simple mad-lib program that prompts for a noun, a verb, an adverb, an a
           
           -Display story
         end
+
+---
+### Challenges:
+
+* Add more inputs to the program to expand the story.
+* Implement a branching story, where the answers to questions determine how the story is constructed. You'll explore this concept more in the problems in Chapter 4, _Making Decisions_.
