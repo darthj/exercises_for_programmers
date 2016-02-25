@@ -19,7 +19,13 @@ Create a program that determines how many years you have left until retirement a
         At what age would you like to retire? 65
         You have 40 years left until you can retire.
         It's 2015, so you can retire in 2055.
-        
+
+---
+### Constraints:
+
+* Again, be sure to convert the input to numerical data before doing any math.
+* Don’t hard-code the current year into your program. Get it from the system time via your programming language.
+
 ---
 ### Inputs, Processes, Outputs:
 
@@ -62,3 +68,8 @@ Create a program that determines how many years you have left until retirement a
           - Display difference
           - Display sum
         end
+
+---
+### Challenges:
+
+* Handle situations where the program returns a negative number by stating that the user can already retire.
