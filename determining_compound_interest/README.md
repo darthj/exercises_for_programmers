@@ -5,8 +5,16 @@
 Write a program to compute the value of an investment compounded over time. The program should ask for the starting amount, the number of years to invest, the interest rate, and the number of periods per year to compound.
 
         Nouns:
+            value of investment
+            principal amount
+            rate of interest
+            number of years
+            number of periods
         
         Verbs:
+            compute
+            prompt
+            display
         
 #### Formula:
 
@@ -41,25 +49,43 @@ where
 ### Inputs, Processes, Outputs:
 
         Inputs:
-                
+            principal amount
+            rate of interest
+            number of years
+            number of periods
+            
         Processes:
-                
+            compute
+            prompt
+            display
+            
         Outputs:
-                
+            amount at the end
+            
 ---
 ### Test Plan:
 
         Inputs:
+            principal amount
+            rate of interest
+            number of years
+            number of periods
         
         Expected Results:
-          
+            What is the principal amount? 1500
+            What is the rate? 4.3
+            What is the number of years? 6
+            What is the number of times the interest
+            is compounded per year? 4
+            $1500 invested at 4.3% for 6 years
+            compounded 4 times per year is $1938.84.
+        
         Actual Results:
         
 ---
 ###  Pseudocode:
 
         Pseudocode
-
         end
 
 ---
