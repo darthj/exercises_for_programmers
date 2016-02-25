@@ -22,3 +22,5 @@ Template: https://github.com/cjbrambo/exercises_for_programmers/wiki/Template
 [8 of 57: Pizza Party](https://github.com/cjbrambo/exercises_for_programmers/tree/master/pizza_party)
 
 [9 of 57: Paint Calculator](https://github.com/cjbrambo/exercises_for_programmers/tree/master/paint_calculator)
+
+[10 of 57: Self Checkout](https://github.com/cjbrambo/exercises_for_programmers/blob/master/self_checkout)
