@@ -20,6 +20,12 @@ Create a program that prompts for a quote and an author. Display the quotation a
         Obi-Wan Kenobi says, "These aren't the droids you're looking for."
 
 ---
+### Constraints:
+
+* Use a single output statement to produce this output, using appropriate string-escaping techniques for quotes.
+* If your language supports string interpolation or string substitution, don't use it for this exercise. Use string concatenation instead.
+
+---
 ### Inputs, Processes, Outputs:
         
         Inputs:
@@ -44,7 +50,7 @@ Create a program that prompts for a quote and an author. Display the quotation a
         Actual Results:
 
 ---
-### Pseudocode
+### Pseudocode:
         
         QuotePrinter
           - Prompts for a quote "What is the quote?"
@@ -54,3 +60,8 @@ Create a program that prompts for a quote and an author. Display the quotation a
           
           - Display author and quote.
         end
+
+---
+### Challenges:
+
+* In Chapter 7, _Data Structures_, you'll practice working with lists of data. Modify this program so that instead of prompting for quotes from the user, you create a structure that holds quotes and their associated attributions and then display all of the quotes using the format in the example. An array of maps would be a good choice.
