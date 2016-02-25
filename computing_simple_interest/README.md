@@ -5,8 +5,16 @@
 Create a program that computes simple interest. Prompt for the principal amount, the rate as a percentage, and the time, and display the amount accrued (principal + interest).
 
     Nouns:
+        simple interest
+        principal amount
+        rate as a percentage
+        time
+        amount accrued
 
     Verbs:
+        computes
+        prompt
+        display
 
 #### Formula:
 
@@ -15,24 +23,49 @@ Create a program that computes simple interest. Prompt for the principal amount,
 ---
 ### Example Output:
 
+    Enter the principal: 1500
+    Enter the rate of interest: 4.3
+    Enter the number of years: 4
+    
+    After 4 years at 4.3%, the investment will
+    be worth $1758.
+
 ---
 ### Constraints:
+
+* Prompt for the rate as a percentage (like 15, not .15). Divide the input by 100 in your program.
+* Ensure that fractions of a cent are rounded up to the next penny.
+* Ensure that the output is formatted as money.
 
 ---
 ### Inputs, Processes, Outputs:
 
     Inputs:
+        principal interest
+        rate as percentage
+        time
 
     Processes:
+        compute
 
     Outputs:
+        display amount accrued
 
 ---
 ### Test Plan:
 
     Inputs:
+        principal interest
+        rate as percentage
+        time
 
     Expected Results:
+        Enter the principal: 1500
+        Enter the rate of interest: 4.3
+        Enter the number of years: 4
+        
+        After 4 years at 4.3%, the investment will
+        be worth $1758.
 
     Actual Results:
     
