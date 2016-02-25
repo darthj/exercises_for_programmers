@@ -85,7 +85,18 @@ where
 ---
 ###  Pseudocode:
 
-        Pseudocode
+        DeterminingCompoundInterest
+            -Prompt for principal amount
+            -Prompt for number of years to invest
+            -Prompt for rate of interest
+            -Prompt for number of periods per year to compound
+            
+            -Divide rate of interest by number of periods
+            -Add 1 to the quotient
+            -Raise the sum by the product of number of periods multiplied by the number of years
+            -Multiply that by the principle
+            
+            -Display the value of investment
         end
 
 ---
