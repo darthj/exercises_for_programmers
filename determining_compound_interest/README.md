@@ -12,6 +12,13 @@ Write a program to compute the value of an investment compounded over time. The 
 
 ![compound interest formula](https://s3.amazonaws.com/engrade-myfiles/4049629875432808/compound_interest_formula.png)
 
+where
+* _P_ is the principal amount.
+* _r_ is the annual rate of interest.
+* _t_ is the number of years the amount is invested.
+* _n_ is the number of times the interest is compounded per year.
+* _A_ is the amount at the end of the investment.
+
 ---
 ### Example Output:
 
