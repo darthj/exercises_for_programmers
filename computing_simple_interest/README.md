@@ -77,7 +77,11 @@ Create a program that computes simple interest. Prompt for the principal amount,
         -Prompt for rate as percentage
         -Prompt for the time (length of loan)
         
-        -
+        -Multiply rate as a percentage by time (length of loan)
+        -Add 1 to the product
+        -Multiply the sum by the principal amount
+        
+        -Display amount accrued
     end
 
 ---
