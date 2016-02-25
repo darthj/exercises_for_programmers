@@ -1,4 +1,4 @@
-# [0 of 57] Self Checkout
+# [10 of 57] Self Checkout
 
 ### Problem Statement:
 
