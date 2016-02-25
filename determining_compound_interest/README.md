@@ -18,7 +18,7 @@ Write a program to compute the value of an investment compounded over time. The 
         
 #### Formula:
 
-![compound interest formula](https://s3.amazonaws.com/engrade-myfiles/4049629875432808/compound_interest_formula.png)
+![compound interest formula](http://www.purplemath.com/modules/logs/expfcn07.gif)
 
 where
 * _P_ is the principal amount.
