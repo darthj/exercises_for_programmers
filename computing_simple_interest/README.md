@@ -8,7 +8,7 @@ Create a program that computes simple interest. Prompt for the principal amount,
         simple interest
         principal amount
         rate as a percentage
-        time
+        time (length of loan)
         amount accrued
 
     Verbs:
@@ -43,7 +43,7 @@ Create a program that computes simple interest. Prompt for the principal amount,
     Inputs:
         principal interest
         rate as percentage
-        time
+        time (length of loan)
 
     Processes:
         compute
@@ -57,7 +57,7 @@ Create a program that computes simple interest. Prompt for the principal amount,
     Inputs:
         principal interest
         rate as percentage
-        time
+        time (length of loan)
 
     Expected Results:
         Enter the principal: 1500
@@ -72,8 +72,12 @@ Create a program that computes simple interest. Prompt for the principal amount,
 ---
 ### Pseudocode:
 
-    Pseudocode
-
+    ComputingSimpleInterest
+        -Prompt for principal amount
+        -Prompt for rate as percentage
+        -Prompt for the time (length of loan)
+        
+        -
     end
 
 ---
