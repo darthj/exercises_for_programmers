@@ -1,5 +1,3 @@
-import math
-
 price_of_item_01 = int(input("Enter the price of item 1: "))
 quantity_of_item_01 = int(input("Enter the quantity of item 1: "))
 price_of_item_02 = int(input("Enter the price of item 2: "))
