@@ -1,5 +1,3 @@
-import math
-
 euros = int(input("How many euros are you exchanging? "))
 exchange_rate_in_euros = float(input("What is the exchange rate? "))
 
