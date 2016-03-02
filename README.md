@@ -27,6 +27,6 @@ Template: https://github.com/cjbrambo/exercises_for_programmers/wiki/Template
 
 * [x] [11 of 57: Currency Conversion](https://github.com/cjbrambo/exercises_for_programmers/tree/master/currency_conversion)
 
-* [ ] [12 of 57: Computing Simple Interest](https://github.com/cjbrambo/exercises_for_programmers/tree/master/computing_simple_interest)
+* [x] [12 of 57: Computing Simple Interest](https://github.com/cjbrambo/exercises_for_programmers/tree/master/computing_simple_interest)
 
 * [ ] [13 of 57: Determining Compound Interest](https://github.com/cjbrambo/exercises_for_programmers/tree/master/determining_compound_interest)
