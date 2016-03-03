@@ -79,6 +79,11 @@ Write a simple program to compute the tax on an order amount. The program should
         Actual Results:
         
 ---
+### Diagram:
+
+![pictures](http://chet.click/upGj+)
+
+---
 ###  Pseudocode:
 
         Pseudocode
