@@ -27,7 +27,7 @@ Write a simple program to compute the tax on an order amount. The program should
         The tax is $0.55.
         The total is $10.55.
     
-    Or
+            Or
     
         What is the order amount? 10
         What is the state? MN
