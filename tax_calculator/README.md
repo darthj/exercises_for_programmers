@@ -86,8 +86,16 @@ Write a simple program to compute the tax on an order amount. The program should
 ---
 ###  Pseudocode:
 
-        Pseudocode
-
+        TaxCalculator
+            -Prompt for order amount
+            -Prompt for state
+            
+            if not WI
+                -Display subtotal, tx, and total
+                
+                else
+                    -Display the total
+            end
         end
 
 ---
