@@ -81,7 +81,7 @@ Write a simple program to compute the tax on an order amount. The program should
 ---
 ### Diagram:
 
-![pictures](http://chet.click/upGj+ =250x)
+![pictures](http://chet.click/upGj+)
 
 ---
 ###  Pseudocode:
