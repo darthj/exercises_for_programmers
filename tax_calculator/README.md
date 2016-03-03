@@ -36,9 +36,9 @@ Write a simple program to compute the tax on an order amount. The program should
 ---
 ### Constraints:
 
-        * Implement this program using only a simple *if* statement — don't use an *else* clause.
-        * Ensure that all money is rounded up to the nearest cent.
-        * Use a single output statement at the end of the program to display the program results.
+* Implement this program using only a simple *if* statement — don't use an *else* clause.
+* Ensure that all money is rounded up to the nearest cent.
+* Use a single output statement at the end of the program to display the program results.
 
 ---
 ### Inputs, Processes, Outputs:
@@ -88,7 +88,7 @@ Write a simple program to compute the tax on an order amount. The program should
 ---
 ### Challenges:
 
-    * Allow the user to enter a state abbreviation in upper, lower, or mixed case.
-    * Also allow the user to enter the state's full name in upper, lower or mixed case.
+* Allow the user to enter a state abbreviation in upper, lower, or mixed case.
+* Also allow the user to enter the state's full name in upper, lower or mixed case.
 
 ---
