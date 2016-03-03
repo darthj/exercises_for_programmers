@@ -21,17 +21,17 @@ Write a simple program to compute the tax on an order amount. The program should
 ---
 ### Example Output:
 
-    What is the order amount? 10
-    What is the stae? WI
-    The subtotal is $10.00.
-    The tax is $0.55.
-    The total is $10.55.
+        What is the order amount? 10
+        What is the stae? WI
+        The subtotal is $10.00.
+        The tax is $0.55.
+        The total is $10.55.
     
     Or
     
-    What is the order amount? 10
-    What is the state? MN
-    The total is $10.00
+        What is the order amount? 10
+        What is the state? MN
+        The total is $10.00
     
 ---
 ### Constraints:
