@@ -29,6 +29,6 @@ Template: https://github.com/cjbrambo/exercises_for_programmers/wiki/Template
 
 * [x] [12 of 57: Computing Simple Interest](https://github.com/cjbrambo/exercises_for_programmers/tree/master/computing_simple_interest)
 
-* [ ] [13 of 57: Determining Compound Interest](https://github.com/cjbrambo/exercises_for_programmers/tree/master/determining_compound_interest)
+* [x] [13 of 57: Determining Compound Interest](https://github.com/cjbrambo/exercises_for_programmers/tree/master/determining_compound_interest)
 
-* [ ] [14 of 57: Tax Calculator](https://github.com/cjbrambo/exercises_for_programmers/tree/master/tax_calculator)
+* [x] [14 of 57: Tax Calculator](https://github.com/cjbrambo/exercises_for_programmers/tree/master/tax_calculator)
