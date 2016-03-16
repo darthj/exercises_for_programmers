@@ -20,7 +20,7 @@ Create a simple program that validates user login credentials. The program must 
 ---
 ### Constraints:
 
-* Use an *if/else* statement for this problem.
+* Use an _if/else_ statement for this problem.
 * Make sure the program is case sensitive.
 
 ---
