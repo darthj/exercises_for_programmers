@@ -11,12 +11,11 @@ Create a simple program that validates user login credentials. The program must 
 ### Example Output:
 
         
-​ 	What is the password? 12345
-​ 	I don't know you.
-Or
-
-​ 	What is the password? abc$123
-​ 	Welcome!
+        What is the password? 12345
+        I don't know you.
+        Or
+        What is the password? abc$123
+        Welcome!
 
 ---
 ### Constraints:
