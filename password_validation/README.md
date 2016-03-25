@@ -4,14 +4,14 @@
 Create a simple program that validates user login credentials. The program must prompt the user for a username and password. The program should compare the password given by the user to a known password. If the password matches, the program should display “Welcome!” If it doesn’t match, the program should display “I don’t know you.
 
         Nouns:
-                username
-                password
-                known password
+            username
+            password
+            known password
         
         Verbs:
-                prompt
-                compare
-                display
+            prompt
+            compare
+            display
         
 ---
 ### Example Output:
@@ -33,16 +33,16 @@ Create a simple program that validates user login credentials. The program must 
 ### Inputs, Processes, Outputs:
 
         Inputs:
-                username
-                password
+            username
+            password
                 
         Processes:
-                compare
+            compare
                 
         Outputs:
-                "I don't know you"
-                or
-                "Welcome!"
+            "I don't know you"
+            or
+            "Welcome!"
                 
 ---
 ### Test Plan:
@@ -57,7 +57,11 @@ Create a simple program that validates user login credentials. The program must 
 ###  Pseudocode:
 
         Pseudocode
-
+            prompt for username
+            prompt for password
+                
+            if password is not equal to any existing passwords display "I don't know you."
+            else display "Welcome!"
         end
 
 ---
