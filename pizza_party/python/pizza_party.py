@@ -6,16 +6,13 @@ class PizzaParty(object):
         self.print_stats()
 
     def total_slices(self, pizzas, slices_per_pizza):
-        total_slices_output = pizzas * slices_per_pizza
-        return total_slices_output
+        return pizzas * slices_per_pizza
 
     def slices_per_person(self, total_slices_output, people):
-        slices_per_person_output = total_slices_output / people
-        return slices_per_person_output
+        return total_slices_output / people
 
     def remaining_slices(self, total_slices_output, people):
-        total_slices_output = total_slices_output % people
-        return total_slices_output
+        return total_slices_output % people
 
     def print_stats(self):
         print("{} people with {} pizzas.".format(self.people, self.pizzas))
