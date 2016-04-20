@@ -61,7 +61,7 @@ Calculate gallons of paint needed to paint the ceiling of a room. Prompt for the
       
       -Multiply the length by the width
       -Divide product by 350
-      -Round the quitient _up_ to the next whole number
+      -Round the quotient _up_ to the next whole number
       
       -Display gallons needed
     end
