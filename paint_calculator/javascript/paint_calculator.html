@@ -1,0 +1,22 @@
+<html>
+
+<head>
+    <script>
+        var GALLON_COVERAGE = 350
+
+        var length = window.prompt("What is the length?");
+        var width = window.prompt("What is the width?");
+
+        var product = (length * width);
+        var quotient = (product / GALLON_COVERAGE);
+        var rounded = Math.ceil(quotient);
+
+        console.log("You will need to purchase", rounded, "gallons of paint to cover", product, "square feet.");
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
