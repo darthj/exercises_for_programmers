@@ -1,0 +1,34 @@
+<html>
+
+<head>
+    <script>
+        var price_of_item_01 = window.prompt("Enter the price of item 1:");
+        var quantity_of_item_01 = window.prompt("Enter the quantity of item 1:");
+        var price_of_item_02 = window.prompt("Enter the price of item 2:");
+        var quantity_of_item_02 = window.prompt("Enter the quantity of item 2");
+        var price_of_item_03 = window.prompt("Enter the price of item 3");
+        var quantity_of_item_03 = window.prompt("Enter the quantity of item 3");
+
+        var product_01 = (price_of_item_01 * quantity_of_item_01);
+        var product_02 = (price_of_item_02 * quantity_of_item_02);
+        var product_03 = (price_of_item_03 * quantity_of_item_03);
+
+        var subtotal = parseFloat(Math.round(product_01 + product_02 + product_03)).toFixed(2);
+
+        var tax_01 = (product_01 * 0.06);
+        var tax_02 = (product_02 * 0.06);
+        var tax_03 = (product_03 * 0.06);
+
+        var tax_total = parseFloat(Math.round(tax_01 + tax_02 + tax_03)).toFixed(2);
+
+        var total = (subtotal + tax_total);
+
+        console.log("Subtotal: $" + subtotal, "\nTax: $" + tax_total, "\nTotal: $" + total)
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
