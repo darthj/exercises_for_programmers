@@ -13,15 +13,15 @@
         var product_02 = (price_of_item_02 * quantity_of_item_02);
         var product_03 = (price_of_item_03 * quantity_of_item_03);
 
-        var subtotal = parseFloat(Math.round(product_01 + product_02 + product_03)).toFixed(2);
+        var subtotal = parseInt(product_01 + product_02 + product_03);
 
         var tax_01 = (product_01 * 0.06);
         var tax_02 = (product_02 * 0.06);
         var tax_03 = (product_03 * 0.06);
 
-        var tax_total = parseFloat(Math.round(tax_01 + tax_02 + tax_03)).toFixed(2);
+        var tax_total = parseInt(tax_01 + tax_02 + tax_03);
 
-        var total = (subtotal + tax_total);
+        var total = parseFloat(Math.round(subtotal + tax_total)).toFixed(2);
 
         console.log("Subtotal: $" + subtotal, "\nTax: $" + tax_total, "\nTotal: $" + total)
     </script>
