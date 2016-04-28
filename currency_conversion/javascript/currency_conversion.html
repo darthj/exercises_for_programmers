@@ -1,0 +1,19 @@
+<html>
+
+<head>
+    <script>
+        var amount_of_euros = window.prompt("How many euros are you exchanging?");
+        var exchange_rate = window.prompt("What is the exchange rate?");
+        var product = (amount_of_euros * exchange_rate);
+        var quotient = (product / exchange_rate);
+        var rounded = Math.ceil(quotient);
+
+        console.log(amount_of_euros, "euros at an exchange rate of", exchange_rate, "is\n", rounded);
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
