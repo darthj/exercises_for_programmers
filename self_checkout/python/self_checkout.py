@@ -1,22 +1,49 @@
-price_of_item_01 = int(input("Enter the price of item 1: "))
-quantity_of_item_01 = int(input("Enter the quantity of item 1: "))
-price_of_item_02 = int(input("Enter the price of item 2: "))
-quantity_of_item_02 = int(input("Enter the quantity of item 2: "))
-price_of_item_03 = int(input("Enter the price of item 3: "))
-quantity_of_item_03 = int(input("Enter the quantity of item 3: "))
+# TODO Needs to handle undetermined number of products.
 
-product_01 = price_of_item_01 * quantity_of_item_01
-product_02 = price_of_item_02 * quantity_of_item_02
-product_03 = price_of_item_03 * quantity_of_item_03
 
-subtotal = product_01 + product_02 + product_03
+def get_price_of_item():
+    price_of_item = int(input("Enter the price of item: "))
+    return price_of_item
 
-tax_01 = product_01 * 0.06
-tax_02 = product_02 * 0.06
-tax_03 = product_03 * 0.06
 
-tax_total = tax_01 + tax_02 + tax_03
+def get_quantity_of_item():
+    quantity_of_item = int(input("Enter the quantity of item: "))
+    return quantity_of_item
 
-total = subtotal + tax_total
 
-print('Subtotal: ${:,.2f}\nTax: ${:,.2f}\nTotal: ${:,.2f}'.format(subtotal, tax_total, total))
+def calc_base_cost(price_of_item, quantity_of_item):
+    base_cost = price_of_item * quantity_of_item
+    return base_cost
+
+
+# subtotal = product_01 + product_02 + product_03
+
+
+def calc_tax_on_subtotal(base_cost):
+    tax_on_subtotal = base_cost * 0.06
+    return tax_on_subtotal
+
+
+# tax_total = tax_01 + tax_02 + tax_03
+
+
+def calc_total_cost(base_cost, tax_on_subtotal):
+    total_cost = base_cost + tax_on_subtotal
+    return total_cost
+
+
+def print_receipt(base_cost, tax_on_subtotal, total_cost):
+    print('Subtotal: ${:,.2f}\nTax: ${:,.2f}\nTotal: ${:,.2f}'.format(
+        base_cost, tax_on_subtotal, total_cost))
+
+
+def main():
+    price = get_price_of_item()
+    quantity = get_quantity_of_item()
+    base = calc_base_cost(price, quantity)
+    tax = calc_tax_on_subtotal(base)
+    total = calc_total_cost(base, tax)
+    print_receipt(base, tax, total)
+
+
+main()
