@@ -1,5 +1,6 @@
 # TODO PEP8 violations on line length
 
+
 def get_principal_amount():
     principal_amount = int(input("What is the principal amount? "))
     return principal_amount
@@ -21,7 +22,12 @@ def get_number_of_periods():
     return number_of_periods
 
 
-def calc_value_of_interest(principal_amount, rate_of_interest, years_to_invest, number_of_periods):
+def calc_value_of_interest(
+    principal_amount,
+    rate_of_interest,
+    years_to_invest,
+    number_of_periods
+        ):
     value_of_investment = principal_amount * (
         1 + ((rate_of_interest / 100) / years_to_invest))**(
             years_to_invest * number_of_periods)
@@ -33,7 +39,13 @@ def convert_rate_to_string(rate_of_interest):
     return rate_converted_to_str
 
 
-def print_results(principal_amount, rate_converted_to_str, years_to_invest, number_of_periods, value_of_investment):
+def print_results(
+    principal_amount,
+    rate_converted_to_str,
+    years_to_invest,
+    number_of_periods,
+    value_of_investment
+        ):
     print(
         '${:d} invested at {:s}% for {:d} years\ncompounded {:d} times per year is ${:,.2f}.'.format(
             principal_amount,
