@@ -8,6 +8,9 @@ def get_second_number():
     return second_number
 
 
+# TODO Explore separating calculation and printing.
+
+
 def print_results(first_number, second_number):
     fmt_str = '{:d} {} {:d} = {}'
 
