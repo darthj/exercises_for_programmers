@@ -19,7 +19,7 @@ Template: https://github.com/cjbrambo/exercises_for_programmers/wiki/Template
 
 * [x] [7 of 57: Area of a Rectangular Room](https://github.com/cjbrambo/exercises_for_programmers/tree/master/07_area_of_a_rectangular_room)
 
-* [x] [8 of 57: Pizza Party](https://github.com/cjbrambo/exercises_for_programmers/tree/08_master/pizza_party)
+* [x] [8 of 57: Pizza Party](https://github.com/cjbrambo/exercises_for_programmers/tree/master/08_pizza_party)
 
 * [x] [9 of 57: Paint Calculator](https://github.com/cjbrambo/exercises_for_programmers/tree/master/09_paint_calculator)
 
