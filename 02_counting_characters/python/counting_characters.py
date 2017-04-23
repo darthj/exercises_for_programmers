@@ -10,9 +10,5 @@ def print_results(input_string):
     print(input_string, 'has', len(input_string), 'characters.')
 
 
-def main():
-    sample_string = get_input()
-    print_results(sample_string)
-
-
-main()
+if __name__ == "__main__":
+    print_results(get_input())
