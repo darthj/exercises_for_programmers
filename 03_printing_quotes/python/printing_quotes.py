@@ -12,10 +12,5 @@ def print_results(quote, person):
     print('{} says, "{}"'.format(person, quote))
 
 
-def main():
-    sample = get_quote()
-    icon = get_person()
-    print_results(sample, icon)
-
-
-main()
+if __name__ == "__main__":
+    print_results(get_quote(), get_person())
