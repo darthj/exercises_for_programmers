@@ -7,9 +7,5 @@ def print_name(name):
     print('Hello {}, nice to meet you!'.format(name))
 
 
-def main():
-    your_name = get_name()
-    print_name(your_name)
-
-
-main()
+if __name__ == "__main__":
+    print_name(get_name())

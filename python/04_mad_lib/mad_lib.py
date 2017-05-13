@@ -22,12 +22,5 @@ def print_results(noun, verb, adjective, adverb):
     print('Do you {} your {} {} {}?\nThat\'s hilarious!'.format(verb, adjective, noun, adverb))
 
 
-def main():
-    mad_noun = get_noun()
-    mad_verb = get_verb()
-    mad_adjective = get_adjective()
-    mad_adverb = get_adverb()
-    print_results(mad_verb, mad_adjective, mad_noun, mad_adverb)
-
-
-main()
+if __name__ == "__main__":
+    print_results(get_verb(), get_adjective(), get_noun(), get_adverb())
